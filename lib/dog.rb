@@ -1,3 +1,8 @@
 class Dog 
-  difo = dog.new
+  
+def dog
+  fido = dog.new
+end
+  
+  
 end
